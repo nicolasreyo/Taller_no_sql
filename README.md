@@ -1,8 +1,8 @@
 
 Integrantes:
-Ana Carolina Rubiano Manrique
-Nicolás Andrés Rey Ospina
-Oscar Alexander Nope Saavedra
+Ana Carolina Rubiano Manrique<br>
+Nicolás Andrés Rey Ospina<br>
+Oscar Alexander Nope Saavedra<br>
 
 
 
