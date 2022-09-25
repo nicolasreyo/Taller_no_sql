@@ -1,5 +1,5 @@
 
-Integrantes:
+Integrantes:<br>
 Ana Carolina Rubiano Manrique<br>
 Nicolás Andrés Rey Ospina<br>
 Oscar Alexander Nope Saavedra<br>
